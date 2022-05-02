@@ -1,4 +1,4 @@
-#Program to sort a list using Bubble Sort
+#Program to sort a list using Bubble Sort and then reverse the sorted list
 num_list = []
 n = 0
 
