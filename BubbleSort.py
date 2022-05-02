@@ -2,6 +2,7 @@
 num_list = []
 n = 0
 
+#Accept numbers from the user
 while n != -1:
     n =int(input("Enter a number OR Enter -1 to stop -  "))
     if n > 0:
