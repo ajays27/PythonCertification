@@ -1,3 +1,4 @@
+#Program to sort a list using Bubble Sort
 num_list = []
 n = 0
 
